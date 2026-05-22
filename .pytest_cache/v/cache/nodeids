@@ -1,0 +1,4 @@
+[
+  "tests/test_calculadora.py::test_restar",
+  "tests/test_calculadora.py::test_sumar"
+]
